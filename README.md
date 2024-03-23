@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 -->
 
 - I am a software engineer
-- I am working on concurrent personal projects. Many ideas 😄 
+- I am working on concurrent personal projects. Many ideas 😄
+- My [repos](https://github.com/nchinling?tab=repositories)
 - 🌱 I’m currently learning design patterns and DevOps
 - Get in touch with me via [LinkedIn](https://www.linkedin.com/in/chin-ling-ng/)
-- I have a [personal website] (https://ngchinling.com/)  
+- I have a [personal website](https://ngchinling.com/)  
