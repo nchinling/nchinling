@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 <br>
 
-![MyGitHub stats](https://github-readme-stats.vercel.app/api?username=nchinling&show_icons=true&theme=transparent)
+![MyGitHub stats](https://github-readme-stats.vercel.app/api?username=nchinling&show_icons=true&theme=cobalt)
