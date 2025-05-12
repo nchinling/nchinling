@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I am a software engineer
+- I am a Fintech lecturer
 - I am working on concurrent personal projects. Many ideas 😄
 - My [repos](https://github.com/nchinling?tab=repositories)
 - 🌱 I’m currently learning design patterns and DevOps
