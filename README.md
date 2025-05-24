@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - I am a Fintech lecturer
 - I am working on concurrent personal projects. Many ideas 😄
 - My [repos](https://github.com/nchinling?tab=repositories)
-- 🌱 I’m currently learning design patterns and DevOps
+- 🌱 I’m currently learning blockchain and k8s. 
 - Get in touch with me via [LinkedIn](https://www.linkedin.com/in/chin-ling-ng/)
 - I have a [personal website](https://ngchinling.com/)  
 
